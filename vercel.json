@@ -3,11 +3,5 @@
     "api/*.py": {
       "runtime": "@vercel/python"
     }
-  },
-  "routes": [
-    {
-      "src": "/bot",
-      "dest": "api/bot.py"
-    }
-  ]
+  }
 }
